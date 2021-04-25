@@ -1,0 +1,225 @@
+[
+    {
+        "memroy_sematic_q": "Journal cheval",
+        "memory_sematic_a": "Combien d’animaux avez-vous vus ? Combien d’objets avez-vous vus ?"
+    },
+    {
+        "memroy_sematic_q": "Canard étang",
+        "memory_sematic_a": "ombien d’animaux avez-vous vus ?Combien de lieux avez-vous vus ?"
+    },
+    {
+        "memroy_sematic_q": "Concombre rat",
+        "memory_sematic_a": "Combien d’animaux avez-vous vus ?Combien de légumes avez-vous vus ?"
+    },
+    {
+        "memroy_sematic_q": "Chaussures savon",
+        "memory_sematic_a": "Combien d’objets avez-vous vus ?Combien d’animaux ?"
+    },
+    {
+        "memroy_sematic_q": "Podologue  orange",
+        "memory_sematic_a": "Combien de métiers avez-vous vus ?Combien de fruits ?"
+    },
+    {
+        "memroy_sematic_q": "Assiette couteau",
+        "memory_sematic_a": "Combien de vaisselles avez-vous vus ?Combien d’animaux ?"
+    },
+    {
+        "memroy_sematic_q": "Arbre vélo",
+        "memory_sematic_a": "Combien de végétaux avez-vous vus ? Combien de véhicules ?"
+    },
+    {
+        "memroy_sematic_q": "Présentateur table",
+        "memory_sematic_a": "Combien de professions avez-vous vues ?Combien de meubles ?"
+    },
+    {
+        "memroy_sematic_q": "Maçon décorateur pinceau",
+        "memory_sematic_a": "Combien de professions avez-vous vues ?Combien d’objet ?"
+    },
+    {
+        "memroy_sematic_q": "Peintre radis brocoli",
+        "memory_sematic_a": "Combien de légumes avez-vous vus ?Combien de profession ?"
+    },
+    {
+        "memroy_sematic_q": "Bague collier ananas",
+        "memory_sematic_a": "ombien de bijoux avez-vous vus ?Combien de fruits ?"
+    },
+    {
+        "memory_sematic_q": "Poireau céleri poire",
+        "memory_sematic_a": "Combien d’aliments étaient verts ? Combien de fruits poussaient en France ?"
+    },
+    {
+        "memory_sematic_q": "Cheval vache romarin",
+        "memory_sematic_a": "Combien d’animaux de la ferme avez-vous vus? quelle était la catégorie du dernier mot ?"
+    },
+    {
+        "memory_sematic_q": "Merle chocolat autruche",
+        "memory_sematic_a": "Combien d’oiseaux peuvent voler ? Combien d’aliments étaient noirs ?"
+    },
+    {
+        "memory_sematic_q": "Métro avion vélo",
+        "memory_sematic_a": "Combien de moyens de transports nécessitaient un ticket ?"
+    },
+    {
+        "memory_sematic_q": "Orties rose chardon",
+        "memory_sematic_a": "Combien de végétaux étaient piquants ?"
+    },
+    {
+        "memory_sematic_q": "Œuf riz banane",
+        "memory_sematic_a": "Combien d’aliments étaient jaunes ?"
+    },
+    {
+        "memory_sematic_q": "Lait beurre farine",
+        "memory_sematic_a": "Combien d’aliments étaient jaunes ?"
+    },
+    {
+        "memory_sematic_q": "Chaise tabouret lit",
+        "memory_sematic_a": "Combien de meubles étaient faits pour s’asseoir ?"
+    },
+    {
+        "memory_sematic_q": "Raisin olive pomme",
+        "memory_sematic_a": "Combien d’aliments pouvaient avoir plusieurs couleurs ?"
+    },
+    {
+        "memory_sematic_q": "Boxe vélo rugby",
+        "memory_sematic_a": "Combien de sports étaient collectifs ?"
+    },
+    {
+        "memory_sematic_q": "Chiens chats lapin",
+        "memory_sematic_a": "Combien d’animaux mangeaient des croquettes ?"
+    },
+    {
+        "memory_sematic_q": "Clémentine chameau mouflon",
+        "memory_sematic_a": "Combien de fruits avez-vous vus ?Combien d’animaux "
+    },
+    {
+        "memory_sematic_q": "Renard castor épinard",
+        "memory_sematic_a": "Combien d’animaux avez-vous vus ?Combien de légumes verts "
+    },
+    {
+        "memory_sematic_q": "Pâtes riz vache",
+        "memory_sematic_a": "Combien d’aliments blancs avez-vous vus ?Combien d’animaux "
+    },
+    {
+        "memory_sematic_q": " Neige plage montagne ski Combien de mots concernaient l’hiver ? a quelle saison se rapportait le dernier mot ?"
+    },
+    {
+        "memory_sematic_q": "Violoncelle piano guitare batterie",
+        "memory_sematic_a": "Combien d’instruments étaient à cordes ? Combien de percussions avez-vous vues ?"
+    },
+    {
+        "memory_sematic_q": "Pancakes crêpes cakes tarte",
+        "memory_sematic_a": "Combien de desserts nécessitaient du sucre dans leur préparation ? Combien de desserts pouvait être aux fruits ?"
+    },
+    {
+        "memory_sematic_q": "Choucroute parmentier pizza brandade",
+        "memory_sematic_a": "Combien de plats étaient à base de poissons ? combien de plats étaient à base de viande"
+    },
+    {
+        "memory_sematic_q": "Judo karaté athlétisme football",
+        "memory_sematic_a": "Combien de sports se jouaient en équipe ? combien de sports de combat avez-vous vus ?"
+    },
+    {
+        "memory_sematic_q": "Mécanicien carrossier peintre carreleur",
+        "memory_sematic_a": "Combien de métier concernaient des voitures ? combien de professions concernaient le bâtiment ?"
+    },
+    {
+        "memory_sematic_q": "Soprano baryton milieu alto",
+        "memory_sematic_a": "Combien de mots concernaient le chant ?"
+    },
+    {
+        "memory_sematic_q": "Lézard tigre ours manchot",
+        "memory_sematic_a": "Combien d’animaux avaient des griffes ? combien d’animaux avaient 4 pattes ?"
+    },
+    {
+        "memory_sematic_q": "Agriculteur pantalon veste archéologue",
+        "memory_sematic_a": "Combien de professions avez-vous vues ?Combien de vêtements "
+    },
+    {
+        "memory_sematic_q": "Plaquiste bateau bus métro",
+        "memory_sematic_a": "Combien de métiers avez-vous vus ?Combien de transport en commun avez-vous vus "
+    },
+    {
+        "memory_sematic_q": "Chinois américain professeur courge",
+        "memory_sematic_a": "Combien de nationalités avez-vous vues ?Combien de légumes verts ? De métiers  ?"
+    },
+    {
+        "memory_sematic_q": "Jardinier paysagiste visage pied",
+        "memory_sematic_a": "Combien de professions avez-vous vues ?Combien de parties du corps "
+    },
+    {
+        "memory_sematic_q": "Paris lyon valise trousse",
+        "memory_sematic_a": "Combien de villes avez-vous vues ?Combien d’objets "
+    },
+    {
+        "memory_sematic_q": "Chanteur camion trottinette canne",
+        "memory_sematic_a": "Combien d’animaux avez-vous vus ?De professions ? Combien de véhicules "
+    },
+    {
+        "memory_sematic_q": "Doigt genou tête houx",
+        "memory_sematic_a": "Combien de parties du corps avez-vous vues ?Combien de plantes rouges "
+    },
+    {
+        "memory_sematic_q": "Boulanger pharmacien robe chaussettes",
+        "memory_sematic_a": "Combien de professions ?Combien de vêtements féminins "
+    },
+    {
+        "memory_sematic_q": "Banane concombre pantalon chaussures chien",
+        "memory_sematic_a": "Combien y avait-il de fruits rouges ? Combien de légumes ? Combien de vêtements ? Combien d’animaux domestiques ?"
+    },
+    {
+        "memory_sematic_q": "Fauteuil bœuf veau poireau genou",
+        "memory_sematic_a": "Combien y avait-il de meubles ? Combien d’animaux sauvages ? Combien de légumes d’été ? Quel était l’autre mot ?"
+    },
+    {
+        "memory_sematic_q": "Couteau verre vert bleu cerise kiwi",
+        "memory_sematic_a": "Combien y avait-il de fruits ? Combien d’objets de vaisselle ? Quelle était la catégorie du dernier mot ? Combien de couleurs avez-vous vues ?"
+    },
+    {
+        "memory_sematic_q": "Pomme poire âne zèbre marron pioche",
+        "memory_sematic_a": "Combien y avait-il de fruits ? Combien d’animaux sauvages ? Quel était la catégorie du dernier mot ?"
+    },
+    {
+        "memory_sematic_q": "Pelle marteau avion bateau table buffet",
+        "memory_sematic_a": "Combien y avait-il d’outils ? combien de moyens de transports ? combien d’aliments ? combien de meubles ?"
+    },
+    {
+        "memory_sematic_q": "Puzzle assiette carafe appartement maison chocolat bonbons",
+        "memory_sematic_a": "Combien y avait-il de jeux ? combien de logements ? combien d’aliments ?"
+    },
+    {
+        "memory_sematic_q": "Manteau écharpe religieuse moineau sénateur pélican citron",
+        "memory_sematic_a": "Combien y avait-il de vêtements ? combien de métiers avez-vous vus ? combien d’animaux ?"
+    },
+    {
+        "memory_sematic_q": "Tomate guitare poivron",
+        "memory_sematic_a": "Combien de légumes avez-vous vus ? Combien de meuble ? Combien d’instruments "
+    },
+    {
+        "memory_sematic_q": "Œil table tabouret",
+        "memory_sematic_a": "Combien de meubles avez-vous vus ? combien de partie du corps ?"
+    },
+    {
+        "memory_sematic_q": "Tableau panière cheval",
+        "memory_sematic_a": "Combien de meubles avez-vous vus ? combien de fruits ? combien d’animaux ?"
+    },
+    {
+        "memory_sematic_q": "Grenouille chouette fenouil",
+        "memory_sematic_a": "Combien de légumes avez-vous vus ? combien de fruits ? combien d’animaux "
+    },
+    {
+        "memory_sematic_q": "Téléphone oreille lèvre télévision",
+        "memory_sematic_a": "Combien d’animaux avez-vous vus ? combien de partie du corps ? combien d’objets ?"
+    },
+    {
+        "memory_sematic_q": "Montre bracelet collier oie",
+        "memory_sematic_a": "Combien de bijoux avez-vous vus ? combien d’animaux ?"
+    },
+    {
+        "memory_sematic_q": "Gentil peureux araignée sérieux",
+        "memory_sematic_a": "Combien y avait-il d’adjectif ? quelle était la catégorie du troisième mot ?"
+    },
+    {
+        "memory_sematic_q": "Immeuble maison pull écharpe",
+        "memory_sematic_a": "Combien d’animaux avez-vous vus ?  combien de vêtements ?"
+    }
+]

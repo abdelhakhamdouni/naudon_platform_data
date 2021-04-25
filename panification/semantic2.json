@@ -1,0 +1,125 @@
+[
+    {
+        "phrase": "Je vais chez le ()  pour acheter des roses ",
+        "words": "boucher/ pâtissier/ banquier/ fleuriste"
+    },
+    {
+        "phrase": "Le ()  m’a prescrit des examens et une ordonnance ",
+        "words": "sportif/docteur/journaliste/gendarme"
+    },
+    {
+        "phrase": "j’aime beaucoup () à cheval ",
+        "words": "monter/escalader/danser/faire"
+    },
+    {
+        "phrase": "ma ()  m’a conseillé de couper les pointes ",
+        "words": "collègue/conseillère/coiffeuse/boulangère"
+    },
+    {
+        "phrase": "Les enfants () les (haricots/ œufs/crêpes/ fruits) au nutella ",
+        "words": "aiment/ détestent"
+    },
+    {
+        "phrase": "Il fait si ()  que je vais me baigner ",
+        "words": "froid/moche/chaud/humide"
+    },
+    {
+        "phrase": "Pour connaître les ()  je regarde le journal du soir ",
+        "words": "ragots/blagues/informations"
+    },
+    {
+        "phrase": "Parle plus ()    je n’entends rien ",
+        "words": "bas/aigu/grave/fort"
+    },
+    {
+        "phrase": "Mets ton ()  il fait froid dehors ",
+        "words": "maillot de bain/sac/bonnet/pantalon"
+    },
+    {
+        "phrase": "En () ils partent à la montagne pour ()",
+        "words": "été/hiver",
+        "words2": "nager/voler/skier"
+    },
+    {
+        "phrase": "Samedi nous irons ()  le zoo en famille ",
+        "words": "reconnaître/visiter/écouter"
+    },
+    {
+        "phrase": "Pour () ma recette, il me faut 4 (parpaings/feuilles/œufs).",
+        "words": "cuire/préparer/peintre/construire"
+    },
+    {
+        "phrase": "Si tu le () je peux te () mon parapluie. ",
+        "words": "retardes/souhaites/découvres/entends",
+        "words2": "donner/vendre/acheter/prêter"
+    },
+    {
+        "phrase": "En juillet les enfants () les vacances",
+        "words": "détestent/regrettent/attendent"
+    },
+    {
+        "phrase": "Lors de son concert le () a émerveillé le public ",
+        "words": "peintre/sportif/acteur/chanteur"
+    },
+    {
+        "phrase": "Le ski est un sport ().",
+        "words": "d’été/d’hiver/de plage"
+    },
+    {
+        "phrase": "Le pharmacien m’a vendu 3 () ",
+        "words": "bonnets/télévision/pommades/pantalons"
+    },
+    {
+        "phrase": "Le soir je regarde le film (à la radio/sur le journal/ à la télévision). ",
+        "words": ""
+    },
+    {
+        "phrase": "Il faut manger 5 () et () par jour. ",
+        "words": "lentilles/ampoule/fruits/papier",
+        "words2": "chevaux/tortue/coussin/légumes"
+    },
+    {
+        "phrase": "Les () arrêtent les voitures pour contrôler les assurances. ",
+        "words": "gendarmes/vaches/boulangers"
+    },
+    {
+        "phrase": "Pour aller courir j’enfile (). ",
+        "words": "ma robe/ mon jogging/ ma jupe/ mon costume"
+    },
+    {
+        "phrase": "Arrivée chez sa coiffeuse, Martine enlève (). ",
+        "words": "son manteau/ses lentilles/ ses bijoux"
+    },
+    {
+        "phrase": "Les touristes s’attroupent autour () en éruption. ",
+        "words": "du volcan/ de la forêt/ de la montagne"
+    },
+    {
+        "phrase": "Les tomates ont besoin de () pour mûrir. ",
+        "words": "neige/soleil/vent"
+    },
+    {
+        "phrase": "L’été je sors les glaces ().",
+        "words": "du congélateur/de la machine à laver/ du placard"
+    },
+    {
+        "phrase": "Avec les enfants nous irons visiter () du roi Soleil.",
+        "words": "le château/le supermarché/la piscine"
+    },
+    {
+        "phrase": "je réserve () pour prendre l’avion.",
+        "words": "mon billet/ ma place/ ma liste"
+    },
+    {
+        "phrase": "J’aime beaucoup assister à () de musique.",
+        "words": "des concerts/ des films/ des discussion"
+    },
+    {
+        "phrase": "Nicolas déteste () de chèvre.",
+        "words": "le fromage/les haricots/les pull"
+    },
+    {
+        "phrase": "Le soir il enfile () pour aller au lit. ",
+        "words": "son pyjama/son costume/ ses chaussures"
+    }
+]

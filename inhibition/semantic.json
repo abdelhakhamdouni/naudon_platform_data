@@ -1,0 +1,10 @@
+[
+    {
+        "inhibition_sematic_q" : "Cliquer sur tous les mots qui apparaissent en rouge, sauf si c’est un nom de couleur uniquement ",
+        "inhibition_sematic_a" : "Renard chien radiateur prune chaleur banane vert bleuet arbre tilleul téléphone Afrique rouge amande noisette gris éclair religieuse pourpre  ardoise cheminée feuille sable jaune violet ivoire clavier châtaigne marron aspirateur kaki crème plateau pantoufle rose beige tabouret pamplemousse télécommande voiture véhicule orange tulipe "
+    },
+    {
+        "inhibition_sematic_q" : "Appuyer quand vous voyez un nom de couleur sauf s’il est écrit dans une couleur différente de sa propre couleur",
+        "inhibition_sematic_a" : "Cheval lapin bleu orange victoire ivoire tortue lenteur gorge poumon rose oiseau rouge chaussures violet bouteille envie orange domino vase tablier vert tracteur violet âne découverte bleu lecture ordinateur blanc noir découverte désir loisir gris lièvre pourpre marron orchidée cyclamen palmier ébène chemise peinture étagère kaki "
+    }
+]

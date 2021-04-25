@@ -1,0 +1,50 @@
+[
+    {
+        "question": "Faire le plein de son véhicule",
+        "order": "Je mets le contact et je démarre ,Je sélectionne le carburant sur la machine ,Je descends de mon véhicule ,Je me place du bon côté de la pompe ,J’ouvre la trappe à carburant ,Je coupe le contact ,Je mets la pompe dans la trappe à carburant "
+    },
+    {
+        "question": "Faire la vaisselle",
+        "order": "Je prends un torchon pour essuyer ,Je mets le bouchon de l’évier ,Je rassemble la vaisselle sale ,Je lave et je rince ,Je mets du produit dans le bac à évier ,Tout est sec je peux ranger ,Je laisse couler l’eau chaude "
+    },
+    {
+        "question": "Se laver les cheveux",
+        "order": "J’allume l’eau tiède ,Je prends une serviette pour essorer ,Je récupère le shampoing ,Je me déshabille et je rentre dans ma douche ,Je rince la mousse ,Je me mouille le corps et les cheveux,Je m’essuie "
+    },
+    {
+        "question": "Faire des courses alimentaires",
+        "order": "Je paye et je range les courses dans le sac ,Je rentre chez moi ,Je regarde dans les placards pour faire ma liste de courses ,Je cherche les aliments dans les rayons ,Je me rends au magasin/ supermarché"
+    },
+    {
+        "question": "Se brosser les dents",
+        "order": "Rincer sa bouche ,Ouvrir le dentifrice ,Mouiller sa brosse à dent ,Brosser les dents ,Fermer le dentifrice "
+    },
+    {
+        "question": "Faire cuire des pâtes",
+        "order": "Egoutter les pâtes ,Prendre une casserole ,Mettre les pâtes dans l’eau ,Attendre que l’eau boue,Mettre du beurre ,Remplir la casserole d’eau ,Servir ,Allumer la plaque ,Saler l’eau "
+    },
+    {
+        "question": "Laver son linge",
+        "order": "Allumer la machine ,Ouvrir le tambour ,Etendre le linge ,Remplir le tambour,Trier le linge ,Mettre la lessive dans le tambour ,Sélectionner le programme "
+    },
+    {
+        "question": "Préparer son café",
+        "order": "Jeter le filtre ,Prendre un filtre ,Faire couler l’eau ,Remplir la machine ,Mettre le café dans le filtre ,Placer sa tasse sous la machine,Eteindre la machine ,Allumer la machine "
+    },
+    {
+        "question": "Programmer le réveil",
+        "order": "Arrêter la sonnerie ,Sélectionner la musique ,Choisir l’heure ,Dormir ,Allumer le réveil"
+    },
+    {
+        "question": "Faire une soupe",
+        "order": " Mouliner les légumes,Faire cuire les légumes ,Laver les légumes ,Servir la soupe ,Eplucher et couper les légumes "
+    },
+    {
+        "question": "Faire le ménage du domicile ",
+        "order": "Débrancher l’aspirateur ,Laisser sécher ,Remplir le saut ,Brancher l’aspirateur ,Passer la serpillère ,Passer l’aspirateur ,Essorer la serpillère "
+    },
+    {
+        "question": "Se faire livrer à manger ",
+        "order": "Ouvrir la porte au livreur ,Appeler le restaurant ,Choisir son menu,Attendre le livreur ,Manger ,Payer"
+    }
+]
